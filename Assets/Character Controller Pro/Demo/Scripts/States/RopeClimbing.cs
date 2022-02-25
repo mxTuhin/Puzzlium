@@ -106,7 +106,7 @@ public class RopeClimbing : CharacterState
 
     public override void EnterBehaviour( float dt , CharacterState fromState )
     {
-        
+        GameManager.instance.inState = GameManager.InState.inRope;
         CharacterActor.IsKinematic = false;
         CharacterActor.alwaysNotGrounded = true;
         CharacterActor.UseRootMotion = false;
@@ -135,7 +135,7 @@ public class RopeClimbing : CharacterState
 
     public override void ExitBehaviour( float dt , CharacterState toState )
     {
-        
+        GameManager.instance.inState = GameManager.InState.inNormal;
         CharacterActor.alwaysNotGrounded = false;
         currentRope = null;
 

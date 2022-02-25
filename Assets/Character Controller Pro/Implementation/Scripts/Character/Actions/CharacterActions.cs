@@ -93,7 +93,8 @@ public struct CharacterActions
 		@run.value = inputHandler.GetBool( "Run" );
 		@interact.value = inputHandler.GetBool( "Interact" );
 		@jetPack.value = inputHandler.GetBool( "Jet Pack" );
-		@dash.value = inputHandler.GetBool( "Dash" );
+		// @dash.value = inputHandler.GetBool( "Dash" );
+		dash.value = false;
 		@crouch.value = inputHandler.GetBool( "Crouch" );
 
 		@pitch.value = inputHandler.GetFloat( "Pitch" );
@@ -108,6 +109,12 @@ public struct CharacterActions
 				@movement.value = inputHandler.GetVector2("Movement");
 				break;
 			case GameManager.InState.inClimb:
+				@movement.value = new Vector2(0.0f, Input.GetAxis("Movement Y"));
+				break;
+			case GameManager.InState.inRope:
+				@movement.value = new Vector2(0.0f, Input.GetAxis("Movement Y"));
+				break;
+			case GameManager.InState.inLadder:
 				@movement.value = new Vector2(0.0f, Input.GetAxis("Movement Y"));
 				break;
 		}

@@ -30,7 +30,7 @@ AnimatorController:
     m_Controller: {fileID: 9100000}
 --- !u!1101 &1101637893029311396
 AnimatorStateTransition:
-  m_ObjectHideFlags: 3
+  m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -40,8 +40,7 @@ AnimatorStateTransition:
     m_ConditionEvent: BottomUp
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102864534660922352, guid: ca911fc8986930847a392d34ecdf91e3,
-    type: 2}
+  m_DstState: {fileID: 1102864534660922352, guid: ca911fc8986930847a392d34ecdf91e3, type: 2}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -78,7 +77,7 @@ AnimatorStateTransition:
   m_CanTransitionToSelf: 1
 --- !u!1101 &1101718300773098270
 AnimatorStateTransition:
-  m_ObjectHideFlags: 3
+  m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -103,7 +102,7 @@ AnimatorStateTransition:
   m_CanTransitionToSelf: 1
 --- !u!1101 &1101760556726126194
 AnimatorStateTransition:
-  m_ObjectHideFlags: 3
+  m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -128,7 +127,7 @@ AnimatorStateTransition:
   m_CanTransitionToSelf: 1
 --- !u!1101 &1101773500964858520
 AnimatorStateTransition:
-  m_ObjectHideFlags: 3
+  m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -138,8 +137,7 @@ AnimatorStateTransition:
     m_ConditionEvent: TopDown
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102939517224063288, guid: ca911fc8986930847a392d34ecdf91e3,
-    type: 2}
+  m_DstState: {fileID: 1102939517224063288, guid: ca911fc8986930847a392d34ecdf91e3, type: 2}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -154,7 +152,7 @@ AnimatorStateTransition:
   m_CanTransitionToSelf: 1
 --- !u!1101 &1101922424984829754
 AnimatorStateTransition:
-  m_ObjectHideFlags: 3
+  m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -176,8 +174,8 @@ AnimatorStateTransition:
   m_CanTransitionToSelf: 1
 --- !u!1102 &1102160021747568896
 AnimatorState:
-  serializedVersion: 5
-  m_ObjectHideFlags: 3
+  serializedVersion: 6
+  m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -194,8 +192,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 5852982713372822042, guid: 46d36788fbda4014d80eee5db4a5828f,
-    type: 3}
+  m_Motion: {fileID: 5852982713372822042, guid: 46d36788fbda4014d80eee5db4a5828f, type: 3}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -203,8 +200,8 @@ AnimatorState:
   m_TimeParameter: 
 --- !u!1102 &1102214251932959676
 AnimatorState:
-  serializedVersion: 5
-  m_ObjectHideFlags: 3
+  serializedVersion: 6
+  m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -222,8 +219,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 3431251323603260243, guid: 4ce2f4654b13bd345bbe9eaef3770ba5,
-    type: 3}
+  m_Motion: {fileID: 3431251323603260243, guid: 4ce2f4654b13bd345bbe9eaef3770ba5, type: 3}
   m_Tag: LedgeHanging
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -231,8 +227,8 @@ AnimatorState:
   m_TimeParameter: 
 --- !u!1102 &1102380041797542450
 AnimatorState:
-  serializedVersion: 5
-  m_ObjectHideFlags: 3
+  serializedVersion: 6
+  m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -250,8 +246,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 6554925045392387627, guid: 4ce2f4654b13bd345bbe9eaef3770ba5,
-    type: 3}
+  m_Motion: {fileID: 6554925045392387627, guid: 4ce2f4654b13bd345bbe9eaef3770ba5, type: 3}
   m_Tag: LedgeHanging
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -259,7 +254,7 @@ AnimatorState:
   m_TimeParameter: 
 --- !u!1107 &1107370197922307736
 AnimatorStateMachine:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}

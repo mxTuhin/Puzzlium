@@ -169,6 +169,7 @@ public class LadderClimbing : CharacterState
     
     public override void EnterBehaviour( float dt , CharacterState fromState )
     {        
+        GameManager.instance.inState = GameManager.InState.inLadder;
 
         // Making the character kinematic here is going to trigger a new Exit/Enter call in the next physics step.
         // The PhysicsComponent handles this change (OnBodyChange event).
@@ -190,6 +191,7 @@ public class LadderClimbing : CharacterState
 
     public override void ExitBehaviour( float dt , CharacterState toState )
     {
+        GameManager.instance.inState = GameManager.InState.inNormal;
         forceExit = false;
         CharacterActor.IsKinematic = false;        
         CharacterActor.alwaysNotGrounded = false;

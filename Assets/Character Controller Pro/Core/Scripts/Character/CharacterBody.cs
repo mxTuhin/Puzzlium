@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using Lightbug.Utilities;
@@ -63,14 +64,20 @@ public class CharacterBody : MonoBehaviour
 
 			ColliderComponent = gameObject.AddComponent<CapsuleColliderComponent2D>();
 			RigidbodyComponent = gameObject.AddComponent<RigidbodyComponent2D>();	 
+			
 		}
 		else
 		{
 			ColliderComponent = gameObject.AddComponent<CapsuleColliderComponent3D>();
 			RigidbodyComponent = gameObject.AddComponent<RigidbodyComponent3D>();
+			
 		}
 
+        
     }
+
+	
+
 
 	CharacterActor characterActor = null;
 	

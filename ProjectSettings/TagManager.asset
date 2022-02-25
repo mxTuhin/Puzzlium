@@ -13,6 +13,7 @@ TagManager:
   - Boost
   - WallSlide
   - JumpDown
+  - Fly
   layers:
   - Default
   - TransparentFX
@@ -23,6 +24,7 @@ TagManager:
   - 
   - 
   - One Way Platform
+  - Pushable
   - 
   - 
   - 
@@ -33,8 +35,7 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
+  - Animal
   - 
   - 
   - 

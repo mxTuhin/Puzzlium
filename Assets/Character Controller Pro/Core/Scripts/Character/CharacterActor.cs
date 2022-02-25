@@ -1,9 +1,11 @@
+ using System;
  using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using Lightbug.Utilities;
+ using UnityEngine.PlayerLoop;
 
-namespace Lightbug.CharacterControllerPro.Core
+ namespace Lightbug.CharacterControllerPro.Core
 {
 
 public enum CharacterActorState
@@ -1949,7 +1951,14 @@ public class CharacterActor : PhysicsActor
 		RigidbodyComponent.Move( position );
 	}
 
-	
+	private void LateUpdate()
+	{
+		// if (gameObject.transform.position.x != 43.4f)
+		// {
+		// 	gameObject.transform.position =
+		// 		new Vector3(43.4f, gameObject.transform.position.y, gameObject.transform.position.z);
+		// }
+	}
 
 
 	protected override void UpdateDynamicRootMotionPosition( Vector3 deltaPosition )

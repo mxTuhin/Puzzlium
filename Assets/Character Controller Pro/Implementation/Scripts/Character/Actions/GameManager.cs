@@ -15,6 +15,8 @@ public class GameManager : MonoBehaviour
         inNormal,
         inLedge,
         inClimb,
+        inLadder,
+        inRope
     }
 
     public InState inState = InState.inNormal;
