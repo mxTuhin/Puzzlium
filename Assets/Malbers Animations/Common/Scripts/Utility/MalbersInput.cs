@@ -157,6 +157,8 @@ namespace MalbersAnimations
         private float h;  //Horizontal Right & Left   Axis X
         private float v;  //Vertical   Forward & Back Axis Z
 
+        public static MalbersInput instance;
+
         #region Inputssss
         protected InputRow Attack1;
         protected InputRow Attack2;
@@ -245,6 +247,8 @@ namespace MalbersAnimations
         {
             if (Camera.main != null)   // get the transform of the main camera
                 m_Cam = Camera.main.transform;
+
+            instance = this;
         }
 
         void OnDisable()
@@ -380,6 +384,20 @@ namespace MalbersAnimations
             if (input != null) return input;
 
             return null;
+        }
+        
+        public virtual InputRow FindInputCustom(string name)
+        {
+            InputRow input = inputs.Find(item => item.name.ToUpper() == name.ToUpper());
+
+            if (input != null) return input;
+
+            return null;
+        }
+
+        public void initiateAttackTwo()
+        {
+            character.Attack1 = true;
         }
     }
 }

@@ -27,7 +27,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\Bin\Debug\</OutputPath>
-    <DefineConstants>DEBUG;TRACE;UNITY_2020_3_14;UNITY_2020_3;UNITY_2020;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;SCENE_TEMPLATE_MODULE;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;PLATFORM_STANDALONE;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_4_6;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>DEBUG;TRACE;UNITY_2020_3_14;UNITY_2020_3;UNITY_2020;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;SCENE_TEMPLATE_MODULE;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;PLATFORM_STANDALONE;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_4_6;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;UNITY_POST_PROCESSING_STACK_V2;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn></NoWarn>
@@ -52,136 +52,171 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Animal\AttackTrigger.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\LockAxis.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\StepTrigger.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Interfaces\iMalbersInput.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\ColorCorrectionCurves.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\SepiaTone.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Behaviors\FallBehavior.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\TransformAnimation.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Animal\ActivateJump.cs" />
+     <Compile Include="Assets\#Particles - Imported\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_RotateCamera.cs" />
+     <Compile Include="Assets\#Particles - Imported\JMO Assets\Cartoon FX\Scripts\CFX_LightIntensityFade.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Behaviors\Fly_NoRoot_Behavior.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\PublicEnums.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\DeltaTransform.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\ImageEffects.cs" />
+     <Compile Include="Assets\#Particles - Imported\EffectExamples\Shared\Scripts\ExtinguishableFire.cs" />
+     <Compile Include="Assets\#Particles - Imported\EffectExamples\Shared\Scripts\ParticleMenu.cs" />
      <Compile Include="Assets\Script\Enemy\SpikeTeethEnemy.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Animal\Animal.cs" />
+     <Compile Include="Assets\Malbers Animations\Dragons\Eggs\Scripts\DragonEgg.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\MalbersInput.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\EdgeDetection.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\MaterialChanger.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Behaviors\RecoverBehavior.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Animal\Hash.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\ContrastEnhance.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\Blur.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Animal\AnimalMovement.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\SunShafts.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Animal\AnimalCallBacks.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\GizmoVisualizer.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Behaviors\RigidConstraintsB.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\ColliderProxy.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\camerascript.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\PostEffectsHelper.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Effects\EffectManager.cs" />
      <Compile Include="Assets\Script\TimedObjectDestructor.cs" />
+     <Compile Include="Assets\#Particles - Imported\JMO Assets\Cartoon FX\Scripts\CFX_AutoRotate.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\DepthOfFieldDeprecated.cs" />
+     <Compile Include="Assets\RainMaker\Demo\DemoScriptStartRainOnSpaceBar.cs" />
+     <Compile Include="Assets\Script\GameController.cs" />
+     <Compile Include="Assets\#Particles - Imported\EffectExamples\Shared\Scripts\DecalDestroyer.cs" />
+     <Compile Include="Assets\RainMaker\Prefab\RainCollision.cs" />
+     <Compile Include="Assets\#Particles - Imported\EffectExamples\TutorialInfo\Scripts\Readme.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\CameraMotionBlur.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\MalbersTools.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\Bloom.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\GlobalFog.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Events\MalbersEvents.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Compatible SA\DestroyGameObject.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\SoundByMaterial.cs" />
+     <Compile Include="Assets\Script\GameOverTriger.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\MWayPoint.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Behaviors\RandomBehavior.cs" />
+     <Compile Include="Assets\#Particles - Imported\JMO Assets\Cartoon FX\Demo\Assets\CFX_AutoStopLoopedEffect.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Camera\MFreeLookCamera.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Behaviors\UnderWaterBehaviour.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\PostEffectsBase.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Behaviors\RootMotionBehaviour.cs" />
+     <Compile Include="Assets\#Particles - Imported\EffectExamples\Shared\Scripts\ParticleExamples.cs" />
+     <Compile Include="Assets\RainMaker\Prefab\RainScript2D.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\Tonemapping.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Behaviors\DamagedBehavior.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\ScreenSpaceAmbientObscurance.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Behaviors\FlyDodgeBehaviour.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\StepsManager.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Animal\AnimalVariables.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Behaviors\MessagesBehavior.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\BloomAndFlares.cs" />
+     <Compile Include="Assets\RainMaker\Prefab\BaseRainScript.cs" />
+     <Compile Include="Assets\#Particles - Imported\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_RandomDirectionTranslate.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\KumaBeer\Stylized anime water\Scripts\PlanarReflection.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\VignetteAndChromaticAberration.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\ScreenOverlay.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Camera\CameraWallStop.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\LinkedBlendShapes.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\ImageEffectBase.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Animal\AnimalExperimental.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\BlurOptimized.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\EnterWater.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\ParticleSystems\Scripts\Fireball.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Behaviors\LayersBehavior.cs" />
+     <Compile Include="Assets\#Particles - Imported\EffectExamples\Shared\Scripts\ParticleCollision.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\ScaleBonesFix.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Effects\FireBallEffectM.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Behaviors\SleepBehavior.cs" />
+     <Compile Include="Assets\#Particles - Imported\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_RandomDir.cs" />
+     <Compile Include="Assets\#Particles - Imported\EffectExamples\Shared\Scripts\GunShoot.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\NoiseAndGrain.cs" />
      <Compile Include="Assets\Script\Enemy\DragonController.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\BloomOptimized.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\DepthOfField.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\MalbersAnimationExtensions.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\Antialiasing.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\NoiseAndScratches.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\ScreenSpaceAmbientOcclusion.cs" />
+     <Compile Include="Assets\#Particles - Imported\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_Translate.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\UseTransform.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Animal\MakeDamage.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Actions\Actions.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\Pivots.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Actions\ActionPack.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\Vortex.cs" />
      <Compile Include="Assets\Script\ObjectRotator.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Behaviors\NoCollidersBehavior.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Interfaces\IMDamagable.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\ParticleSystems\Scripts\FireBreath.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Behaviors\FlyBehavior.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\ColorCorrectionLookup.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Camera\FreeLookCameraState.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\Twirl.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\Comment.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Behaviors\LoopBehaviour.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\ChangeTarget.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\ContrastStretch.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Behaviors\JumpBehaviour.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\Quads.cs" />
+     <Compile Include="Assets\RainMaker\Demo\DemoScript.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\AnimatorEventSounds.cs" />
+     <Compile Include="Assets\RainMaker\Prefab\RainScript.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Behaviors\SoundBehavior.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\ActiveMeshes.cs" />
      <Compile Include="Assets\Script\AbstractAnimationController.cs" />
      <Compile Include="Assets\Script\MovingPlatformerGameobject.cs" />
+     <Compile Include="Assets\#Particles - Imported\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_New.cs" />
      <Compile Include="Assets\Script\GameStateManagerDep.cs" />
+     <Compile Include="Assets\#Particles - Imported\EffectExamples\EffectExamples\Misc Effects\Scripts\SpawnEffect.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Behaviors\AttackBehaviour.cs" />
+     <Compile Include="Assets\RainMaker\Demo\DemoScript2D.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Behaviors\JumpNoRootBehaviour.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\LookAtTrigger.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\BlinkEyes.cs" />
+     <Compile Include="Assets\#Particles - Imported\JMO Assets\Cartoon FX\Scripts\CFX_LightFlicker.cs" />
+     <Compile Include="Assets\#Particles - Imported\JMO Assets\Cartoon FX\Scripts\CFX_AutoDestructShuriken.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Camera\FreeLockCameraManager.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\TiltShift.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Compatible SA\Water\Scripts\Water.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\SlowMotion.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\Fisheye.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\MotionBlur.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Actions\ActionZone.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\CreaseShading.cs" />
+     <Compile Include="Assets\Script\TimeSlower.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Effects\EffectModifier.cs" />
+     <Compile Include="Assets\Script\CutScene\PreloadController.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Animal\FollowTarget.cs" />
+     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\LookAt.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\Grayscale.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\ColorCorrectionRamp.cs" />
-     <Compile Include="Assets\Script\Chaser.cs" />
-     <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\Triangles.cs" />
-     <Compile Include="Assets\Script\TimeSlower.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\MWayPoint.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\MalbersAnimationExtensions.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Camera\FreeLookCameraState.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Animal\Animal.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Animal\AnimalCallBacks.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Animal\MakeDamage.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\Comment.cs" />
-     <Compile Include="Assets\Malbers Animations\Dragons\Eggs\Scripts\DragonEgg.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Actions\Actions.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\MalbersInput.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Animal\AttackTrigger.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\MalbersTools.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Behaviors\LoopBehaviour.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Compatible SA\Water\Scripts\Water.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Behaviors\RandomBehavior.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Camera\CameraWallStop.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\LockAxis.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\ChangeTarget.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\LinkedBlendShapes.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\Pivots.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Animal\AnimalExperimental.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Effects\EffectModifier.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Behaviors\FlyDodgeBehaviour.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Behaviors\SleepBehavior.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\TransformAnimation.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Animal\ActivateJump.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\StepTrigger.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\GizmoVisualizer.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Interfaces\iMalbersInput.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\SlowMotion.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\StepsManager.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Behaviors\RigidConstraintsB.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Camera\MFreeLookCamera.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\ColliderProxy.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\EnterWater.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Behaviors\AttackBehaviour.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Behaviors\Fly_NoRoot_Behavior.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Animal\AnimalVariables.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Behaviors\MessagesBehavior.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Behaviors\JumpBehaviour.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\PublicEnums.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Animal\FollowTarget.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\MaterialChanger.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Actions\ActionPack.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\DeltaTransform.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Behaviors\RecoverBehavior.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Animal\Hash.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Behaviors\JumpNoRootBehaviour.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\ParticleSystems\Scripts\Fireball.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\LookAtTrigger.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Behaviors\UnderWaterBehaviour.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Events\MalbersEvents.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Behaviors\LayersBehavior.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Behaviors\NoCollidersBehavior.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\LookAt.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\AnimatorEventSounds.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\BlinkEyes.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Interfaces\IMDamagable.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Behaviors\FallBehavior.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\ParticleSystems\Scripts\FireBreath.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\ScaleBonesFix.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Behaviors\SoundBehavior.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Behaviors\FlyBehavior.cs" />
      <Compile Include="Assets\Malbers Animations\Common\Scripts\Animal\AnimalAIControl.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Behaviors\RootMotionBehaviour.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Effects\EffectManager.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Compatible SA\DestroyGameObject.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\SoundByMaterial.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\UseTransform.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Animal\AnimalMovement.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Camera\FreeLockCameraManager.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Actions\ActionZone.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\ActiveMeshes.cs" />
+     <Compile Include="Assets\Script\Chaser.cs" />
+     <Compile Include="Assets\#Particles - Imported\EffectExamples\Shared\Scripts\GunAim.cs" />
      <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\BlendShapes.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Scripts\Effects\FireBallEffectM.cs" />
-     <Compile Include="Assets\Malbers Animations\Common\Behaviors\DamagedBehavior.cs" />
+     <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\Triangles.cs" />
+     <Compile Include="Assets\Script\StaticVars.cs" />
+     <Compile Include="Assets\Script\SceneChanger.cs" />
+     <Compile Include="Assets\Script\PlayerPositionController.cs" />
+     <Compile Include="Assets\Script\DeathTrigger.cs" />
+     <Compile Include="Assets\Script\MainMenu.cs" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\Tonemapper.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\GlobalFog.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\VortexEffect.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\NoiseAndGrain.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
+     <None Include="Assets\#Particles - Imported\JMO Assets\Cartoon FX\Shaders\CFX3 Multiply Color.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\Projectors\Shaders\ProjectorMultiply.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\DLAA.shader" />
      <None Include="Assets\Malbers Animations\Common\ParticleSystems\Shaders\Caustic.shader" />
@@ -189,6 +224,7 @@
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAAPreset3.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\CameraMotionBlurDX11.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Story Northern Nature\shaders\S_two_texture_alpha_blend.shader" />
+     <None Include="Assets\#Particles - Imported\JMO Assets\Cartoon FX\CartoonFX Free.txt" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\VignettingShader.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionCurves.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Story Northern Nature\shaders\S_unlit_transparent_panner_nofog.shader" />
@@ -201,12 +237,14 @@
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\SunShaftsComposite.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Story Northern Nature\shaders\S_unlit_transparent_nofog.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\ConvertDepth.shader" />
+     <None Include="Assets\#Particles - Imported\EffectExamples\EffectExamples\Misc Effects\Prefabs\Readme_Dissolve_Respawn_.txt" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Story Northern Nature\shaders\S_waterfall_standard.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\TwirlEffect.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Story Northern Nature\shaders\S_foliage_wind_standard_textureblend_lit.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Apply.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ToonShading\Shaders\ToonLitOutline.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Adaptation.shader" />
+     <None Include="Assets\#Particles - Imported\JMO Assets\Cartoon FX Easy Editor\CartoonFX Easy Editor Readme.txt" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\LensFlareCreate.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\CameraMotionBlur.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\ScreenSpaceAmbientObscurance.shader" />
@@ -222,7 +260,9 @@
      <None Include="Assets\#Objects - Imported\Env-Assets\Story Northern Nature\shaders\S_foliage_wind_standard_advanced_lit.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\SepiaToneEffect.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrection3DLut.shader" />
+     <None Include="Assets\RainMaker\Readme.txt" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Story Northern Nature\shaders\S_foliage_wind_standard_simple_lit.shader" />
+     <None Include="Assets\#Particles - Imported\EffectExamples\EffectExamples\Magic Effects\Shaders\Ice.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\SimpleClear.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Story Northern Nature\shaders\S_top_projection_noise_standard.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\ContrastComposite.shader" />
@@ -230,6 +270,7 @@
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\BlurEffectConeTaps.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\Bokeh34.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionEffect.shader" />
+     <None Include="Assets\#Particles - Imported\EffectExamples\EffectExamples\Misc Effects\Shaders\Respawn.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\FisheyeShader.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BrightPassFilter.shader" />
@@ -255,6 +296,7 @@
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\GrayscaleEffect.shader" />
      <None Include="Assets\#Objects - Imported\AnimeBoyOffice\Source files\Source files\Shader\UnlitColor.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Story Northern Nature\shaders\S_foliage_wind_standard_simple.shader" />
+     <None Include="Assets\RainMaker\Prefab\RainShader.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\ChromaticAberrationShader.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\NoiseAndGrainDX11.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\KumaBeer\Stylized anime water\Readme.txt" />
@@ -264,17 +306,21 @@
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\BlendModesOverlay.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ToonShading\Shaders\ToonBasicOutline.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfFieldScatter.shader" />
+     <None Include="Assets\#Particles - Imported\JMO Assets\Cartoon FX\Shaders\CFXM_MobileParticleAdd_Alpha8.shader" />
+     <None Include="Assets\#Particles - Imported\EffectExamples\EffectExamples\Misc Effects\Shaders\FireFly.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\EdgeDetectNormals.shader" />
      <None Include="Assets\Hovl Studio\Procedural fire\Shaders\FireSphere.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\KumaBeer\Stylized anime water\Shaders\Sand_snow.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAA2.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderYUV.shader" />
+     <None Include="Assets\#Particles - Imported\EffectExamples\Shared\Shaders\SurfaceShader_VC.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Luminance.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlurAndFlares.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\NFAA.shader" />
      <None Include="Assets\Hovl Studio\Procedural fire\Demo scene\Readme.txt" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAAPreset2.shader" />
+     <None Include="Assets\#Particles - Imported\EffectExamples\EffectExamples\Misc Effects\Shaders\Dissolve.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\TiltShiftHdrLensBlur.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Story Northern Nature\shaders\S_doublesided_lit.shader" />
      <None Include="Assets\Malbers Animations\Common\Fonts\OpenSans\License!.txt" />
@@ -863,6 +909,9 @@
  <Reference Include="com.unity.cinemachine.editor">
  <HintPath>E:/Unity/Puzzlium/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
  </Reference>
+ <Reference Include="Unity.Postprocessing.Runtime">
+ <HintPath>E:/Unity/Puzzlium/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.VSCode.Editor">
  <HintPath>E:/Unity/Puzzlium/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
@@ -887,17 +936,23 @@
  <Reference Include="Unity.TextMeshPro">
  <HintPath>E:/Unity/Puzzlium/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
+ <Reference Include="Unity.2D.Sprite.Editor">
+ <HintPath>E:/Unity/Puzzlium/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Postprocessing.Editor">
+ <HintPath>E:/Unity/Puzzlium/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEditor.UI">
  <HintPath>E:/Unity/Puzzlium/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
- </Reference>
- <Reference Include="Unity.PlasticSCM.Editor">
- <HintPath>E:/Unity/Puzzlium/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
  <HintPath>E:/Unity/Puzzlium/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>E:/Unity/Puzzlium/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.PlasticSCM.Editor">
+ <HintPath>E:/Unity/Puzzlium/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.SysrootPackage.Editor">
  <HintPath>E:/Unity/Puzzlium/Library/ScriptAssemblies/Unity.SysrootPackage.Editor.dll</HintPath>

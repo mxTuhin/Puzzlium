@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Security.Cryptography;
 using UnityEngine;
 
 public class SpikeTeethEnemy : MonoBehaviour
@@ -21,6 +22,22 @@ public class SpikeTeethEnemy : MonoBehaviour
         {
             _animator.SetTrigger("hasCatched");
         }
+
+        if (hit.CompareTag("Pushable"))
+        {
+            StartCoroutine(triggerTimelyAnimation(0.5f, hit));
+
+
+        }
+    }
+
+    IEnumerator triggerTimelyAnimation(float timer, GameObject hit)
+    {
+        _animator.SetTrigger("hasCatched");
+        yield return new WaitForSeconds(timer);
+        Destroy(hit);
+        Destroy(gameObject);
+        
     }
     private void OnTriggerExit(Collider collision)
     {

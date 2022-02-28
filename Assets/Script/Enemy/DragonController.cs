@@ -42,6 +42,7 @@ public class DragonController : MonoBehaviour
             {
                 transform.position += transform.forward * (10 * Time.deltaTime);
                 print(distance);
+                Destroy(gameObject,2f);
             }
             
         }

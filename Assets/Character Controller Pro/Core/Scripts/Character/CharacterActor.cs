@@ -1951,8 +1951,11 @@ public class CharacterActor : PhysicsActor
 		RigidbodyComponent.Move( position );
 	}
 
+	public bool canChangePos;
 	private void LateUpdate()
 	{
+		
+		
 		// if (gameObject.transform.position.x != 43.4f)
 		// {
 		// 	gameObject.transform.position =
