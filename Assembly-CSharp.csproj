@@ -82,6 +82,7 @@
      <Compile Include="Assets\Malbers Animations\Common\Scripts\Animal\AnimalMovement.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\SunShafts.cs" />
      <Compile Include="Assets\Malbers Animations\Common\Scripts\Animal\AnimalCallBacks.cs" />
+     <Compile Include="Assets\Script\DeathTrigger.cs" />
      <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\GizmoVisualizer.cs" />
      <Compile Include="Assets\Malbers Animations\Common\Behaviors\RigidConstraintsB.cs" />
      <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\ColliderProxy.cs" />
@@ -135,6 +136,7 @@
      <Compile Include="Assets\Malbers Animations\Common\ParticleSystems\Scripts\Fireball.cs" />
      <Compile Include="Assets\Malbers Animations\Common\Behaviors\LayersBehavior.cs" />
      <Compile Include="Assets\#Particles - Imported\EffectExamples\Shared\Scripts\ParticleCollision.cs" />
+     <Compile Include="Assets\Script\PlayerPositionController.cs" />
      <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\ScaleBonesFix.cs" />
      <Compile Include="Assets\Malbers Animations\Common\Scripts\Effects\FireBallEffectM.cs" />
      <Compile Include="Assets\Malbers Animations\Common\Behaviors\SleepBehavior.cs" />
@@ -153,6 +155,7 @@
      <Compile Include="Assets\Malbers Animations\Common\Scripts\Animal\MakeDamage.cs" />
      <Compile Include="Assets\Malbers Animations\Common\Scripts\Actions\Actions.cs" />
      <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\Pivots.cs" />
+     <Compile Include="Assets\Script\MainMenu.cs" />
      <Compile Include="Assets\Malbers Animations\Common\Scripts\Actions\ActionPack.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\Vortex.cs" />
      <Compile Include="Assets\Script\ObjectRotator.cs" />
@@ -191,8 +194,10 @@
      <Compile Include="Assets\Malbers Animations\Common\Scripts\Compatible SA\Water\Scripts\Water.cs" />
      <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\SlowMotion.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\Fisheye.cs" />
+     <Compile Include="Assets\Script\StaticVars.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\MotionBlur.cs" />
      <Compile Include="Assets\Malbers Animations\Common\Scripts\Actions\ActionZone.cs" />
+     <Compile Include="Assets\Script\SceneChanger.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\CreaseShading.cs" />
      <Compile Include="Assets\Script\TimeSlower.cs" />
      <Compile Include="Assets\Malbers Animations\Common\Scripts\Effects\EffectModifier.cs" />
@@ -206,11 +211,6 @@
      <Compile Include="Assets\#Particles - Imported\EffectExamples\Shared\Scripts\GunAim.cs" />
      <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\BlendShapes.cs" />
      <Compile Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Scripts\Triangles.cs" />
-     <Compile Include="Assets\Script\StaticVars.cs" />
-     <Compile Include="Assets\Script\SceneChanger.cs" />
-     <Compile Include="Assets\Script\PlayerPositionController.cs" />
-     <Compile Include="Assets\Script\DeathTrigger.cs" />
-     <Compile Include="Assets\Script\MainMenu.cs" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\Tonemapper.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\GlobalFog.shader" />
      <None Include="Assets\#Objects - Imported\Env-Assets\Stylized Nature Pack\Demo Scene\Standard Assets\Effects\ImageEffects\Shaders\VortexEffect.shader" />

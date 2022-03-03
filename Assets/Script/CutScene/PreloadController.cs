@@ -73,6 +73,6 @@ public class PreloadController : MonoBehaviour
 
     public void followPuzzleButton()
     {
-        Application.OpenURL("https://puzzle-11.netlify.app/");
+        Application.OpenURL("https://dinohandwatch.com");
     }
 }

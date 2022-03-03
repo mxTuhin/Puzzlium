@@ -3549,7 +3549,7 @@ GameObject:
   - component: {fileID: 315012112}
   - component: {fileID: 315012111}
   m_Layer: 5
-  m_Name: Button
+  m_Name: Submit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4617,7 +4617,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 100
   way: 2
-  antiClockwise: 0
+  antiClockwise: 1
 --- !u!1001 &384629723
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19814,7 +19814,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1481002392}
-  m_LocalRotation: {x: 0.13359901, y: -0.27792993, z: 0.039066397, w: 0.9504631}
+  m_LocalRotation: {x: 0.13359904, y: -0.27793, z: 0.0390664, w: 0.9504631}
   m_LocalPosition: {x: 49.82034, y: 4.5798626, z: 28.48784}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -27776,15 +27776,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5595549785912159032, guid: 252b739f440c6ff4cae8281b7e270d28, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.13359901
+      value: 0.13359904
       objectReference: {fileID: 0}
     - target: {fileID: 5595549785912159032, guid: 252b739f440c6ff4cae8281b7e270d28, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.27792993
+      value: -0.27793
       objectReference: {fileID: 0}
     - target: {fileID: 5595549785912159032, guid: 252b739f440c6ff4cae8281b7e270d28, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.039066397
+      value: 0.0390664
       objectReference: {fileID: 0}
     - target: {fileID: 5595549785912159032, guid: 252b739f440c6ff4cae8281b7e270d28, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -27894,7 +27894,7 @@ GameObject:
   - component: {fileID: 2093908342}
   - component: {fileID: 2093908341}
   m_Layer: 5
-  m_Name: VisitPuzzlium
+  m_Name: WebPuzzle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27966,7 +27966,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2693462}
         m_TargetAssemblyTypeName: PreloadController, Assembly-CSharp
-        m_MethodName: submitPuzzleText
+        m_MethodName: followPuzzleButton
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
