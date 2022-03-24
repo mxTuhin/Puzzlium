@@ -16,12 +16,16 @@ public class PreloadController : MonoBehaviour
     public Text notifier;
 
     public GameObject gameRunCanvas;
+
+    public float textRevealTimer;
+
+    public string reaperText;
+
+    public string approvalText;
     // Start is called before the first frame update
     void Start()
     {
-        StartCoroutine(triggerText(
-            "Reaper: Hello. Little Filthy Human. How Dare you come here. You can never pass the course of puzzlium. " +
-            "Prove your worth. Click the button on bottom left, solve the puzzle and submit what you have found there"));
+        StartCoroutine(triggerText(reaperText));
     }
 
     // Update is called once per frame
@@ -33,7 +37,7 @@ public class PreloadController : MonoBehaviour
     public void submitPuzzleText()
     {
         print(puzzleText.text);
-        if (puzzleText.text.Equals("opensezame"))
+        if (puzzleText.text.Equals(approvalText))
         {
             
             cutSceneCanvas.SetActive(false);
@@ -52,12 +56,24 @@ public class PreloadController : MonoBehaviour
     IEnumerator changeScene()
     {
         yield return new WaitForSeconds(3.0f);
-        SceneManager.LoadScene("PlayScene");
+        if (approvalText.Equals("opensezame"))
+        {
+            SceneManager.LoadScene("PlayScene");
+        }
+        else if (approvalText.Equals("PUZZLIUM4EVER1107"))
+        {
+            SceneManager.LoadScene("MidScene");
+        }
+        else if (approvalText.Equals("THEREALHEROISYOU"))
+        {
+            SceneManager.LoadScene("EndScene");
+        }
+        
     }
     
     IEnumerator triggerText(string text)
     {
-        yield return new WaitForSeconds(5.5f);
+        yield return new WaitForSeconds(textRevealTimer);
         cutSceneCanvas.SetActive(true);
         StartCoroutine(textRevealer(text));
     }
@@ -71,8 +87,10 @@ public class PreloadController : MonoBehaviour
         }
     }
 
+    public string puzzleLink;
     public void followPuzzleButton()
     {
-        Application.OpenURL("https://dinohandwatch.com");
+        Application.OpenURL(puzzleLink);
+        
     }
 }

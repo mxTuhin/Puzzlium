@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using MalbersAnimations;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class TimeSlower : MonoBehaviour
 {
@@ -19,7 +20,7 @@ public class TimeSlower : MonoBehaviour
             if (shouldTriggerFlame)
             {
                 dragonFlame.SetActive(true);
-                // StartCoroutine(sceneChangerTrigger());
+                StartCoroutine(sceneChangerTrigger());
                 characterPointLight.SetActive(true);
             }
         }
@@ -39,5 +40,12 @@ public class TimeSlower : MonoBehaviour
     {
         yield return new WaitForSeconds(0.8f);
         sceneChanger.SetActive(true);
+        StartCoroutine(changeSceneToPreloadTwo());
+    }
+
+    IEnumerator changeSceneToPreloadTwo()
+    {
+        yield return new WaitForSeconds(2.0f);
+        SceneManager.LoadScene("SecondDoor");
     }
 }

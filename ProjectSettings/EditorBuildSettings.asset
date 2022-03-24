@@ -17,4 +17,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Scenes/PlayScene.unity
     guid: 78572a7a0b647e4429e84fa3e807ad4b
+  - enabled: 1
+    path: Assets/_Scenes/SecondDoor.unity
+    guid: aab48b6c89e2ad5449cae91926e39a29
+  - enabled: 1
+    path: Assets/_Scenes/MidScene.unity
+    guid: 77fff3790fe45004db80ff13cf368792
+  - enabled: 1
+    path: Assets/_Scenes/ThirdDoor.unity
+    guid: b1691f117db187b4ca327778bc7563cc
+  - enabled: 1
+    path: Assets/_Scenes/EndScene.unity
+    guid: 15aa23ed0e86a0f49ab5bc3e68635da8
   m_configObjects: {}
