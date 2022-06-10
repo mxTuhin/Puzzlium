@@ -51,7 +51,20 @@ public class AnimatorLink : MonoBehaviour
             OnAnimatorIKEvent( layerIndex );
         
     }
-   
+    
+    [Header("Animator Controller")]
+    public AudioSource _audioSource;
+    
+    public AudioClip runningSound;
+    
+    
+    
+    public void createRunSound()
+    {
+        _audioSource.PlayOneShot(runningSound, 1.0f);
+    }
+    
+
 
 }
 
